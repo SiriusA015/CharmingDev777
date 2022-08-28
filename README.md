@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+and+Technical+Partner;Senior+API+and+Mobile+Developer;Ruby+on+Rails+Engineer;Shopify+and+Frontend+Engineer;&center=true&width=450&height=50&font=georgia">
   </a>
 </h1>
-<!--
-<a href="https://app.daily.dev/hotdev" align="right"><img src="https://api.daily.dev/devcards/4aba052d94b34db9a001fc7e9d4afc35.png?r=410" width="400" alt="Ishimoto Yamada's Dev Card" /></a>
--->
+
 
 ### Languages
 
