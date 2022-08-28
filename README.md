@@ -1,6 +1,6 @@
 <h1 align="center">
  <a href="https://github.com/CharmingDev777">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack +Devloper;DevOps+Engineer+and+Technical+Partner;Senior+API+and+Mobile+Developer;Shopify+and+Frontend+Engineer;&center=true&width=450&height=50&font=georgia">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer+and+Technical+Partner;Senior+API+and+Mobile+Developer;Shopify+and+Frontend+Engineer;&center=true&width=450&height=50&font=georgia">
   </a>
 </h1>
 <!--
@@ -46,7 +46,7 @@
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-<!--
+
 <h2 align="left" id="macropower-tech">Github Stats  </h2>
 
 <div align="center">
@@ -58,4 +58,3 @@
 <div align="center" width="100">
   <img src="https://github-profile-trophy.vercel.app/?username=CharmingDev777&column=8&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
--->
